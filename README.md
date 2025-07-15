@@ -1,1 +1,1 @@
-# my-email-api-v2
+# my-email-app-v2
